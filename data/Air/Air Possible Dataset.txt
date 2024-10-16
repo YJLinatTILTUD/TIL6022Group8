@@ -1,0 +1,28 @@
+Air
+ - Freight and mail air transport by type of schedule, transport coverage and country
+ - Loaded n unloaded, loaded, unloaded, on board, on board(arrival, departures)
+ - Country level
+ - 1993~2023, yearly, quarterly, monthly
+ - ton
+https://ec.europa.eu/eurostat/databrowser/view/avia_gooc/default/table?lang=en&category=avia.avia_go.avia_goo
+ - Freight and mail air transport by type of schedule, transport coverage and main airports
+ - Loaded n unloaded, loaded, unloaded, on board, on board(arrival, departures)
+ - Country level
+ - 1993~2023, yearly, quarterly, monthly
+ - ton
+https://ec.europa.eu/eurostat/databrowser/view/avia_gooa/default/table?lang=en&category=avia.avia_go.avia_goo
+ - Air transport by aircraft model, transport coverage and main airports
+ - passengers, freight and mail
+ - Aircraft, airports
+ - 1993~2023,Yearly, 2010~2023, Quarterly, Monthly
+ - passenger, ton, flight
+https://ec.europa.eu/eurostat/databrowser/view/avia_tf_aca/default/table?lang=en&category=avia.avia_tf
+ - Freight and mail air transport routes between partner airports and main airports in Belgium
+ - Port to Port
+https://ec.europa.eu/eurostat/databrowser/view/avia_gor_be/default/table?lang=en&category=avia.avia_go.avia_gor
+ - International intra-EU freight and mail air transport by reporting country and EU partner country
+ - EU country to EU country
+https://ec.europa.eu/eurostat/databrowser/view/avia_goincc/default/table?lang=en&category=avia.avia_go.avia_goi
+ - International extra-EU freight and mail air transport by reporting country and partner world region and countries
+ - country to EU country
+https://ec.europa.eu/eurostat/databrowser/view/avia_goexcc/default/table?lang=en&category=avia.avia_go.avia_goe
