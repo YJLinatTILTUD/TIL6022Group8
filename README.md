@@ -1,2 +1,2 @@
 # TIL6022Group8
-For Group Project
+Group project for the course TIL6022 Introduction to Python Programming.
